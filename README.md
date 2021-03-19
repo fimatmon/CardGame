@@ -1,5 +1,5 @@
 # CardGame
-Java 8 / CLI-based card game
+Java 8 / CLI-based card game - The UI is only in Finnish.
 
 CardGame - two cards - game v. 1.0
 
